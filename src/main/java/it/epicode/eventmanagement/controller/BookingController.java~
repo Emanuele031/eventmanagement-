@@ -1,0 +1,4 @@
+package it.epicode.eventmanagement.controller;
+
+public class BookingController {
+}

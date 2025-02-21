@@ -1,0 +1,4 @@
+package it.epicode.eventmanagement.enumerated;
+
+public enum Role {
+}
